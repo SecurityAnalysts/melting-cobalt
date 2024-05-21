@@ -1,14 +1,14 @@
 alabaster==0.7.12
 Babel==2.9.1
-certifi==2020.12.5
+certifi==2023.7.22
 chardet==4.0.0
 click==7.1.2
 click-plugins==1.1.1
 colorama==0.4.4
 docutils==0.16
-idna==2.10
+idna==3.7
 imagesize==1.2.0
-Jinja2==2.11.3
+Jinja2==3.1.4
 MarkupSafe==1.1.1
 packaging==20.9
 Pygments==2.9.0
@@ -16,7 +16,7 @@ pyparsing==2.4.7
 python3-nmap==1.5.0
 pytz==2021.1
 PyYAML==5.4.1
-requests==2.25.1
+requests==2.32.0
 shodan==1.25.0
 simplejson==3.17.2
 snowballstemmer==2.1.0
@@ -28,6 +28,6 @@ sphinxcontrib-htmlhelp==1.0.3
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
-urllib3==1.26.5
+urllib3==1.26.18
 XlsxWriter==1.4.2
 xmltodict==0.12.0
